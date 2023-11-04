@@ -6,7 +6,7 @@ namespace Matrices
     public static class Extends
     {
         /// <summary>
-        /// Get transported matrix.
+        /// Get transpose matrix.
         /// </summary>
         /// <param name="mat"></param>
         /// <returns></returns>
